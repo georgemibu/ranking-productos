@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.masvendidos-container{
+    width: 300px;
+    height: 400px;
+}
+
+.masvendidos-container h2{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.masvendidos-caja{
+    width: 300px;
+    height: 100px;
+    display: flex;
+}
+.masvendidos-caja img {
+    width: 100px;
+    height: 97px;
+}
+.masvendidos-info h3, p{
+    margin-left:10px;
+    margin-bottom: 8px;
+    font-size: 15px;
+    font-weight: 500;
+}
